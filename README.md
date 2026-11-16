@@ -1,16 +1,17 @@
-## Hi there 👋
+# Amit Varma — AI Inference Engineer · DevOps & Cloud Engineer
 
-<!--
-**respoamit/respoamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Official Portfolio:** [amitvarma.online/info](https://amitvarma.online/info) · **Live GKE App:** [Respo Quotes (amitvarma.online)](https://amitvarma.online/) · **LinkedIn:** [linkedin.com/in/amit-varma23](https://www.linkedin.com/in/amit-varma23)
 
-Here are some ideas to get you started:
+I am **Amit Varma** (*Amit Shriram Varma* / `@respoamit`), an **AI Inference Engineer** and **AWS Certified DevOps & Cloud Engineer** based in **Mumbai, India**. I engineer cloud-native infrastructure, automated CI/CD pipelines, and high-performance GPU-accelerated LLM serving systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Engineering Stack
+- **AI Inference & GPU Computing:** LLM Inference Optimization, High-Performance Model Serving (`vLLM`), GPU Programming (`CUDA`), Systems Performance & Cost Optimization
+- **Cloud & Orchestration:** Google Cloud Platform (`GCP`), Amazon Web Services (`AWS`), Google Kubernetes Engine (`GKE`), `Kubernetes`, `Docker`, `Helm`
+- **Infrastructure & CI/CD:** `Terraform` (Infrastructure as Code), `GitHub Actions`, `Git`
+- **Observability:** `Prometheus`, `Grafana`, Cloud Networking & Security
+
+### Featured Production Project
+- **[Respo Quotes](https://amitvarma.online/)** ([Source Repo](https://github.com/respoamit/Respo-Quotes)) — A cloud-native web application deployed on **Google Kubernetes Engine (GKE)** featuring containerized microservices, Helm charts, GitHub Actions CI/CD automation, and Prometheus/Grafana monitoring.
+
+### Certification
+- **AWS Certified Solutions Architect – Associate** — Amazon Web Services
