@@ -1,6 +1,6 @@
 # Amit Varma — AI Inference Engineer · DevOps & Cloud Engineer
 
-**Official Portfolio:** [amitvarma.online/info](https://amitvarma.online/) · **Live App:** [Respo Quotes (amitvarma.online)](https://amitvarma.online/quotes) · **LinkedIn:** [linkedin.com/in/amit-varma23](https://www.linkedin.com/in/amit-varma23)
+**Official Portfolio:** [amitvarma.online/info](https://amitvarma.online/) · **Live App:** [Respo Quotes (amitvarma.online/quotes)](https://amitvarma.online/quotes) · **LinkedIn:** [linkedin.com/in/amit-varma23](https://www.linkedin.com/in/amit-varma23)
 
 I am **Amit Varma** (*Amit Shriram Varma* / `@respoamit`), an **AI Inference Engineer** and **AWS Certified DevOps & Cloud Engineer** based in **Mumbai, India**. I engineer cloud-native infrastructure, automated CI/CD pipelines, and high-performance GPU-accelerated LLM serving systems.
 
